@@ -1,3 +1,9 @@
+> **SPS compatibility mirror**
+>
+> This public repository is a Paperclip compatibility mirror used for SPS
+> interoperability research. It is not the private SPS product runtime,
+> release channel, or support surface.
+
 <p align="center">
   <img src="doc/assets/banner.jpg" alt="Paperclip is the app people use to manage AI agents for work." width="720" />
 </p>
